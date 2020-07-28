@@ -10,4 +10,3 @@ Project Instructions
 
 The deployment project which you will be working on is intended to be done using Amazon's SageMaker platform. In particular, it is assumed that you have a working notebook instance in which you can clone the deployment repository.
 
-Evaluation
